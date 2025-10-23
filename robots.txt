@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.yilmazlarmetal.com/sitemap.xml
+
